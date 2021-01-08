@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h2 { background-image: none;}
+
+#header_wrap {
+    background: url(portada.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+#botongithub {
+
+    top: 10px;
+    z-index: 10;
+    padding: 10px 50px 10px 10px;
+    color: white;
+    background: url(../images/blacktocat.png) grey no-repeat 95% 50%;
+    font-weight: 700;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-bottom-left-radius: 10px;
+    border-bottom-urlright-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+#botonblog {
+
+    top: 10px;
+    z-index: 10;
+    padding: 10px 50px 10px 10px;
+    color: white;
+    background: grey;
+    font-weight: 700;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+© 2021 GitHub, Inc.
