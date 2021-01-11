@@ -3,7 +3,7 @@
 
 ## ENTRANTES Y PRIMEROS
 
-<a href="https://RecetasDeLosGarcia.github.io/postres/"> POSTRES </a>
+<a href="https://RecetasDeLosGarcia.github.io/postres/text.html"> POSTRES </a>
 
 ## SALSAS
 
